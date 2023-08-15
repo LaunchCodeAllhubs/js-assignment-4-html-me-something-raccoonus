@@ -6,8 +6,18 @@ body {
 
   header {
     text-align: center;
+    background-color: silver;
+    padding: 10px;
+    border-radius: 10px;
   }
 
   h2 {
-    color: orange;
+    color: darkblue;
+  }
+
+  section {
+    border: 2px dotted red;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
   }
