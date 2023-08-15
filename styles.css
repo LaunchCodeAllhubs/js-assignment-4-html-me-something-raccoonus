@@ -23,9 +23,9 @@ body {
   }
 
   .funParagraph {
-    color: blueviolet;
+    color: red;
   }
 
-  #main {
-    color: red
+  #mainHeading {
+    color: green
   }
